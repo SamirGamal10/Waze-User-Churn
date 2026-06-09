@@ -7,10 +7,10 @@ Sidebar radio navigation between:
 """
 
 import os
-import joblib  # pyright: ignore[reportMissingImports]
+import joblib
 import pandas as pd
-import plotly.express as px # pyright: ignore[reportMissingImports]
-import streamlit as st  # pyright: ignore[reportMissingImports]
+import plotly.express as px
+import streamlit as st
 
 # ---------------------------------------------------------------------------
 # Paths — anchored to this script, independent of CWD
