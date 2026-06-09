@@ -1,5 +1,13 @@
 # Waze User Churn Prediction 🚗📊
 
+## 🚀 Live Demo
+
+[🔗 **Launch Live Demo**](https://waze-user-churn-quqtmpptclwjrixmmwpzv7.streamlit.app)
+
+> *Streamlit app — explore the analytics dashboard and test churn predictions live.*
+
+---
+
 ## 📌 Project Overview
 This project focuses on analyzing Waze user behavior and predicting user churn using machine learning techniques.  
 The goal is to identify users who are likely to stop using the application and understand the key factors behind churn.
